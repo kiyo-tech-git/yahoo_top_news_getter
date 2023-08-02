@@ -26,7 +26,7 @@ pip install -r requirements.txt
 1. `yahoo_top_news_getter.py`を実行します。
 
 ```bash
-python yahoo_top_news_getter.py.py
+python yahoo_top_news_getter.py
 ```
 
 ## 免責事項
